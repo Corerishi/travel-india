@@ -1,4 +1,4 @@
-# Student Information App
+# Travel App
 
 ## Team Members
 
